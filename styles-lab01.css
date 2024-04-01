@@ -66,7 +66,12 @@ nav.right .round-icon {
     align-items: center;
     border-radius: 50%;
 }
+header #profile {
+    font-size: 40px;
+    overflow: hidden;
+}
 
+/* Main */
 .main-wrapper {
     background-color: #eee;
     min-height: 100vh;
